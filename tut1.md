@@ -3,21 +3,19 @@
 
 ## Step 1 @fullscreen
 
-Place a ``||basic:pause||`` and a ``||buttonClicks.onButtonSingleClicked||`` block.
+Place a ``||basic:pause||`` block, and a ``||buttonClicks:onButtonSingleClicked||`` block.
 
 ```blocks
 buttonClicks.onButtonSingleClicked(buttonClicks.AorB.A, function () {
-	
+	basic.showString('A')
 })
 basic.forever(function () {
-    basic.pause(100)
+    basic.pause(1000)
+    basic.clearScreen()
 })
 ```
 
-## Step 3
+## Step 2
 
-Look at the virtual @boardname@, you should see nothing.
-
-## Step 4
-
-If you have a @boardname@ connected, click ``|Download|`` to transfer your code and see nothing there too.
+Look at the virtual @boardname@, and press A.
+If you have a @boardname@ connected, click ``|Download|`` to transfer your code, and press A.
