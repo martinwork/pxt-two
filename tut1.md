@@ -1,27 +1,9 @@
 # Flashing Heart
 
-```
-https://makecode.microbit.org/#tutorial:https://github.com/martinwork/pxt-two/tut1
-```
-
-## Introduction @unplugged
-
-Learn how to make a tutorial 
-
 
 ## Step 1 @fullscreen
 
-Place a ``||basic:pause||`` block in the ``||basic:forever||`` block.
-
-```blocks
-basic.forever(function () {
-    basic.pause(100)
-})
-```
-
-## Step 2
-
-Place a ``||buttonClicks.onButtonSingleClicked||`` block.
+Place a ``||basic:pause||`` and a ``||buttonClicks.onButtonSingleClicked||`` block.
 
 ```blocks
 buttonClicks.onButtonSingleClicked(buttonClicks.AorB.A, function () {
