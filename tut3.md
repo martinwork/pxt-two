@@ -17,7 +17,7 @@ basic.forever(function () {
 
 ## Step 2
 
-Place a ``||buttonClicks.onButtonSingleClicked||`` block.
+Place a ``||buttonClicks:onButtonSingleClicked||`` block.
 
 ```blocks
 buttonClicks.onButtonSingleClicked(buttonClicks.AorB.A, function () {
@@ -35,3 +35,7 @@ Look at the virtual @boardname@, you should see nothing.
 ## Step 4
 
 If you have a @boardname@ connected, click ``|Download|`` to transfer your code and see nothing there too.
+
+```package
+buttonClicks=github:bsiever/microbit-pxt-clicks
+```
