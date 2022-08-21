@@ -5,7 +5,7 @@ https://makecode.microbit.org/#tutorial:https://github.com/martinwork/pxt-two/tu
 ```
 
 ```package
-buttonClicks=github:bsiever/microbit-pxt-clicks
+microbit-pxt-clicks=github:bsiever/microbit-pxt-clicks
 ```
 
 ## Introduction @unplugged
