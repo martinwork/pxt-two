@@ -7,7 +7,8 @@
     "files": [
         "README.md",
         "two.ts",
-        "tut1.md"
+        "tut1.md",
+        "tut2.md"
     ],
     "testFiles": [
         "test.ts"
