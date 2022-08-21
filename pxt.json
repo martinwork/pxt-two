@@ -9,8 +9,7 @@
         "two.ts",
         "tut1.md",
         "tut2.md",
-        "tut3.md",
-        "tut4.md"
+        "tut3.md"
     ],
     "testFiles": [
         "test.ts"
