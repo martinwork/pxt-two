@@ -2,8 +2,7 @@
     "name": "pxt-two",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "microbit-pxt-clicks": "github:bsiever/microbit-pxt-clicks#v0.1.5"
+        "core": "*"
     },
     "files": [
         "README.md",
