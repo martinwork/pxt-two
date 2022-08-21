@@ -8,6 +8,10 @@ https://makecode.microbit.org/#tutorial:https://github.com/martinwork/pxt-two/tu
 microbit-pxt-clicks=github:bsiever/microbit-pxt-clicks
 ```
 
+## Introduction @unplugged
+
+Learn how to refer to extensions.
+
 ## Step 1 @fullscreen
 
 Place a ``||basic:pause||`` block, and a ``||buttonClicks:onButtonSingleClicked||`` block.

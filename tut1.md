@@ -4,6 +4,10 @@
 https://makecode.microbit.org/#tutorial:https://github.com/martinwork/pxt-two/tut1
 ```
 
+## Introduction @unplugged
+
+Learn how to refer to extensions.
+
 ## Step 1 @fullscreen
 
 Place a ``||basic:pause||`` block, and a ``||buttonClicks:onButtonSingleClicked||`` block.
