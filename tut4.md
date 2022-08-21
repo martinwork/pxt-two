@@ -4,11 +4,6 @@
 whatshouldthisbe=github:bsiever/microbit-pxt-clicks
 ```
 
-## Introduction @unplugged
-
-Learn how to make a tutorial 
-
-
 ## Step 1 @fullscreen
 
 Place a ``||basic:pause||`` block, and a ``||buttonClicks:onButtonSingleClicked||`` block.
@@ -23,10 +18,7 @@ basic.forever(function () {
 })
 ```
 
-## Step 3
+## Step 2
 
 Look at the virtual @boardname@, and press A.
-
-## Step 4
-
 If you have a @boardname@ connected, click ``|Download|`` to transfer your code, and press A.
