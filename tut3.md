@@ -1,13 +1,5 @@
 # tut3
 
-```
-https://makecode.microbit.org/#tutorial:https://github.com/martinwork/pxt-two/tut3
-```
-
-```package
-buttonClicks=github:bsiever/microbit-pxt-clicks
-```
-
 ## Introduction @unplugged
 
 Learn how to make a tutorial 
