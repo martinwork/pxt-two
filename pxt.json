@@ -2,14 +2,12 @@
     "name": "pxt-two",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md"
+        "README.md",
+        "two.ts",
+        "tut1.md"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +18,6 @@
     },
     "supportedTargets": [
         "microbit"
-    ]
+    ],
+    "preferredEditor": "tsprj"
 }
