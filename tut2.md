@@ -1,5 +1,9 @@
 # tut2
 
+```
+https://makecode.microbit.org/#tutorial:https://github.com/martinwork/pxt-two/tut2
+```
+
 ```package
 whatshouldthisbe=github:bsiever/microbit-pxt-clicks
 ```
